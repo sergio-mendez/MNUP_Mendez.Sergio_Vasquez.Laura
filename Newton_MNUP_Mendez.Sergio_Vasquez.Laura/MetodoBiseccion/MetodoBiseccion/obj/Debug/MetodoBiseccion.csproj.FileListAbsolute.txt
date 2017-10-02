@@ -1,0 +1,6 @@
+c:\users\laura\documents\visual studio 2013\Projects\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.exe.config
+c:\users\laura\documents\visual studio 2013\Projects\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.exe
+c:\users\laura\documents\visual studio 2013\Projects\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.pdb
+c:\users\laura\documents\visual studio 2013\Projects\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.csprojResolveAssemblyReference.cache
+c:\users\laura\documents\visual studio 2013\Projects\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.exe
+c:\users\laura\documents\visual studio 2013\Projects\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.pdb
