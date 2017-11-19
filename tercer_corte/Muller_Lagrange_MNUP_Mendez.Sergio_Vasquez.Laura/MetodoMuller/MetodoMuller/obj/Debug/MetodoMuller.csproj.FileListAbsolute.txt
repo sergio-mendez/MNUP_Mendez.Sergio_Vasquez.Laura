@@ -1,0 +1,6 @@
+c:\users\laura\documents\visual studio 2013\Projects\MetodoMuller\MetodoMuller\bin\Debug\MetodoMuller.exe.config
+c:\users\laura\documents\visual studio 2013\Projects\MetodoMuller\MetodoMuller\bin\Debug\MetodoMuller.exe
+c:\users\laura\documents\visual studio 2013\Projects\MetodoMuller\MetodoMuller\bin\Debug\MetodoMuller.pdb
+c:\users\laura\documents\visual studio 2013\Projects\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.csprojResolveAssemblyReference.cache
+c:\users\laura\documents\visual studio 2013\Projects\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.exe
+c:\users\laura\documents\visual studio 2013\Projects\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.pdb
